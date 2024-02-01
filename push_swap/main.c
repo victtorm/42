@@ -6,7 +6,7 @@
 /*   By: vbritto- <vbritto-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/31 17:41:03 by vbritto-          #+#    #+#             */
-/*   Updated: 2024/01/31 17:41:19 by vbritto-         ###   ########.fr       */
+/*   Updated: 2024/02/01 13:43:53 by vbritto-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,8 +16,12 @@ int	main(int argc, char **argv)
 {
 	t_list	*a;
 
-	if (argc == 2)
+	if (argc <= 2)
+	{
+		if ((argv[1][0] == ' ') || (argc < 2))
+			return (0);
 		argv = ft_split(argv [argc - 1], ' ');
+	}
 	else
 		argv++;
 	if (!check(argv))

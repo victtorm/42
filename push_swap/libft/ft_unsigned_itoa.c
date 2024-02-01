@@ -6,11 +6,11 @@
 /*   By: vbritto- <vbritto-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/31 10:56:59 by vbritto-          #+#    #+#             */
-/*   Updated: 2023/10/31 12:25:21 by vbritto-         ###   ########.fr       */
+/*   Updated: 2024/02/01 13:23:55 by vbritto-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 int	num_len(unsigned int num)
 {

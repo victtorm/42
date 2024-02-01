@@ -1,4 +1,4 @@
-PUSH_FILES = push_swap.c list_func.c moves.c
+PUSH_FILES = push_swap.c list_func.c moves.c check.c
 OBJS = ${PUSH_FILES:.c=.o}
 CC = cc
 RM = rm -f

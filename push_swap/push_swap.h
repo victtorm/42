@@ -6,7 +6,7 @@
 /*   By: vbritto- <vbritto-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/22 11:28:46 by vbritto-          #+#    #+#             */
-/*   Updated: 2024/01/31 18:04:19 by vbritto-         ###   ########.fr       */
+/*   Updated: 2024/02/01 13:23:49 by vbritto-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,6 +26,7 @@ typedef struct s_list
 void	push_swap(t_list *a);
 
 //  check
+
 
 int		check(char **str);
 int		check_2(char **str);

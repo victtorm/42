@@ -6,14 +6,14 @@
 /*   By: vbritto- <vbritto-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 11:37:51 by vbritto-          #+#    #+#             */
-/*   Updated: 2024/01/31 18:04:26 by vbritto-         ###   ########.fr       */
+/*   Updated: 2024/02/01 13:09:04 by vbritto-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef LIBFT_H
 # define LIBFT_H
 
-# include "../push_swap.h"
+//# include "../push_swap.h"
 # include <stdio.h>
 # include <string.h>
 # include <stdlib.h>
@@ -48,7 +48,7 @@ typedef struct s_list
 	struct s_list	*next;
 }	l_lis;*/
 
-t_list			*ft_lstnew(void *content);*/
+//t_list			*ft_lstnew(void *content);
 t_list			*ft_lstlast(t_list *lst);
 void			ft_lstadd_front(t_list **lst,
 					t_list *new);

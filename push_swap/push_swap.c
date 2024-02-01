@@ -6,7 +6,7 @@
 /*   By: vbritto- <vbritto-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/22 11:28:50 by vbritto-          #+#    #+#             */
-/*   Updated: 2024/01/31 16:01:37 by vbritto-         ###   ########.fr       */
+/*   Updated: 2024/02/01 13:25:10 by vbritto-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ void	push_swap(t_list *a)
 	(void)a;
 	return ;
 }
-
+/*
 int	main(int argc, char **argv)
 {
 	t_list	*a;
@@ -33,4 +33,4 @@ int	main(int argc, char **argv)
 	a = list(argv);
 	push_swap(a);
 	return (0);
-}
+}*/
