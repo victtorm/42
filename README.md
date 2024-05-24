@@ -23,6 +23,8 @@ At 42, there are no teachers or books. Learning takes place collaboratively, and
 
 <h2> Rank 02 </h2>
 <div align="center">
-<a href="https://github.com/victtorm/push_swap"><img src="https://github.com/victtorm/42/blob/master/img/push_swap.png">
+<a href="https://github.com/victtorm/push_swap"><img src="https://github.com/victtorm/42/blob/master/img/push_swap.png"> <a href="https://github.com/victtorm/pipex"><img src="https://github.com/victtorm/42/blob/master/img/pipex.png"> <a href="https://github.com/victtorm/fract_ol"><img src="https://github.com/victtorm/42/blob/master/img/fractol.png">
+
+
 
 </div>
