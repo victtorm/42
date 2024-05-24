@@ -28,5 +28,5 @@ At 42, there are no teachers or books. Learning takes place collaboratively, and
 
 </div>
 
-<h2> Rank 02 </h2>
+<h2> Rank 03 </h2>
 <div align="center">
